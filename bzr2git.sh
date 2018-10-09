@@ -1,3 +1,5 @@
+#!/bin/bash
+
 BZR_REPO="bzr"
 GIT_UPSTREAM=upstream
 
